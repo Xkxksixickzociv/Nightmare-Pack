@@ -1,0 +1,6 @@
+Makes the notes go to the middle.
+Or makes the notes go to their original position.
+
+Value 1: Middle Scroll (True / False)
+Value 2: Time it takes
+Value 3: Ease type

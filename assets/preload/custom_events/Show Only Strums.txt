@@ -1,0 +1,3 @@
+Shows Only the Strums (Both Players)
+
+Value 1: Show Only Strums? (True / False)
