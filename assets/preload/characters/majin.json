@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				30
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SONICFUNIDLE"
+		},
+		{
+			"offsets": [
+				700,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SONICFUNLEFT"
+		},
+		{
+			"offsets": [
+				-70,
+				-30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SONICFUNRIGHT"
+		},
+		{
+			"offsets": [
+				40,
+				190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SONICFUNUP"
+		},
+		{
+			"offsets": [
+				0,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SONICFUNDOWN"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nightmare_majin",
+	"position": [
+		-60,
+		-180
+	],
+	"healthicon": "majin",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		40,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
